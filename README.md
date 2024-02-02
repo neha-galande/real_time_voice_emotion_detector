@@ -6,6 +6,8 @@ The working model for real time detection is saved as model_weights.h5 file.
 
 The gui file is saved as speech.py.
 
+This is the link for demonstration video of working model--
+
 
 #To use the emotion and voice tone detection model, follow the given steps:
 
